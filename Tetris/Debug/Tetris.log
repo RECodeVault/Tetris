@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\Main.cpp(19,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\Main.cpp(50,13): warning C4101: 'guiEvent': unreferenced local variable
+  Tetris.vcxproj -> C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Debug\Tetris.exe

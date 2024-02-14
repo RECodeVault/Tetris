@@ -1,0 +1,12 @@
+﻿  TetrisGame.cpp
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\TetrisGame.cpp(206,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\TetrisGame.cpp(206,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tetris.vcxproj -> C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Debug\Tetris.exe

@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\Main.cpp(11,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\Main.cpp(43,12): warning C4101: 'guiEvent': unreferenced local variable
+  TetrisGame.cpp
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\TetrisGame.cpp(186,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Tetris\TetrisGame.cpp(186,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\C0507099\OneDrive - Camosun College\ICS 214\Labs\Tetris\Debug\Tetris.exe
